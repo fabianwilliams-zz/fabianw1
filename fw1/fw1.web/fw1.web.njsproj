@@ -41,7 +41,10 @@
     <Content Include="public\css\bootstrap-responsive.min.css" />
     <Content Include="public\css\bootstrap.css" />
     <Content Include="public\css\bootstrap.min.css" />
+    <Content Include="public\css\signin.css" />
+    <Content Include="public\css\narrow.css" />
     <Content Include="public\css\hero.css" />
+    <Content Include="public\css\fluid.css" />
     <Content Include="public\ico\apple-touch-icon-114-precomposed.png" />
     <Content Include="public\ico\apple-touch-icon-144-precomposed.png" />
     <Content Include="public\ico\apple-touch-icon-57-precomposed.png" />
